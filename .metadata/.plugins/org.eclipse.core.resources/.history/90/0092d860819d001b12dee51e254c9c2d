@@ -1,0 +1,25 @@
+package aula14042021;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class TrabalhandoComDatas {
+
+	public static void main(String[] args) {
+		String dataComoString = "14/04/2021";
+		Date data = converterStringParaDate(dataComoString);
+		System.out.println(data);
+	}
+
+	public static Date converterStringParaDate(String dataStr) {
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		Date dataConvertida = sdf.parse(dataStr);
+		
+		return dataConvertida;
+	}
+
+	public static Date converterDateParaString(String dataStr) {
+		return null;
+	}
+
+}
