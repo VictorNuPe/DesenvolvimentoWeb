@@ -14,4 +14,7 @@
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
     <fullyQualifiedTypeName name="sun.java2d.pipe.SpanShapeRenderer.Simple"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 </qualifiedTypeNameHistroy>

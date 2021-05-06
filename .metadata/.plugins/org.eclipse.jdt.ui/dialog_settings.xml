@@ -5,6 +5,8 @@
 	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="jdk-14.0.2"/>
 	<item key="delegateUpdating" value="false"/>
 	<section name="completion_proposal_size">
+		<item key="size.x" value="676"/>
+		<item key="size.y" value="244"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
